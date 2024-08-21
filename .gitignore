@@ -3,4 +3,4 @@ venv
 *.csv
 model
 *.pyz
-data.zip
+*.zip
